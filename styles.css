@@ -31,6 +31,6 @@ body {
   color: whitesmoke;
 }
 
-.linkbtn {
-  text-align: right;
+#linkbtn {
+  text-align: center;
 }
