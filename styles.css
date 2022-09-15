@@ -1,0 +1,36 @@
+/* CSS KIM Task 2 HTML CSS */
+
+body {
+  background-image: url("images/forest.jpg");
+  background-size: cover;
+  text-align: center;
+  font-family: "Orbitron", sans-serif;
+}
+
+.img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 260px;
+  display: flex;
+  border: 6px solid black;
+}
+
+.texthead {
+  text-align: center;
+  color: whitesmoke;
+  text-shadow: 2px;
+  font-family: "Orbitron", sans-serif;
+}
+
+.text {
+  color: whitesmoke;
+  padding-bottom: 20px;
+}
+
+.paragraph {
+  color: whitesmoke;
+}
+
+.linkbtn {
+  text-align: right;
+}
